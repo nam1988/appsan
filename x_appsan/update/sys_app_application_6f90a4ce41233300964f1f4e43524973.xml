@@ -5,6 +5,7 @@
         <description/>
         <device_type>browser</device_type>
         <hint/>
+        <element
         <name/>
         <order/>
         <roles>x_appsan.user</roles>
